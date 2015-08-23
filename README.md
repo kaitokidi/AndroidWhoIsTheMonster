@@ -28,3 +28,4 @@ In order to capture the monster we will use the following procedure:
 The test will be chosen by this game using a sofisticated method of randomly picked "truth or dare" actions, but you can play it even without this game using your own tests.
 
 Be respectfull, remember that the monster is only a joke, we all are humans, enjoy it, and have fun! Hope you might like it!
+
